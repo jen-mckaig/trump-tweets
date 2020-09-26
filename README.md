@@ -3,9 +3,9 @@
 
 I copied Trump’s tweet data from the Trump Twitter Archive, opting to analyze the tweets starting on Jan. 20, 2017 at the top of his Presidential term. After saving the text data as a csv file, I imported the file into a Jupyter Notebook using the Pandas library.
 
-As a data science student at the Flatiron School, I have been studying statistical distributions and probability. The Poisson Distribution is interesting because it allows us to calculate the probability of a given event happening by examining the average number of events that happen in a specific time frame. 
+As a data science student at the Flatiron School, I was studying statistical distributions and probability. The Poisson Distribution is interesting because it allows us to calculate the probability of a given event happening by examining the average number of events that happen in a specific time frame. 
 
-Given that it is currently a Tuesday in 2019, he is averaging around 12 tweets a day and he reports to only sleep about 5 hrs a day, the probability is pretty low — at 11%.
+Given that it was a Tuesday in 2019, he was averaging around 12 tweets a day and he reports to only sleep about 5 hrs a day, the probability is pretty low — at 11%.
 
 ![by_hr](https://user-images.githubusercontent.com/54602329/68094976-87875c00-fe73-11e9-95c1-fbe33257246e.png)
 
